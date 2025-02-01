@@ -20,7 +20,6 @@ as executables in your $PATH.
 
 from __future__ import absolute_import
 import gzip
-import imp
 import io
 import os
 import subprocess
